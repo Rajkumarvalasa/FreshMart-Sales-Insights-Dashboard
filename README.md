@@ -1,4 +1,4 @@
-📊#FreshMart Sales Insights Dashboard
+#FreshMart Sales Insights Dashboard
 
 I'm thrilled to share my latest analytics project — a fully dynamic and interactive Sales Dashboard for FreshMart Store, developed using Microsoft Excel.
 This dashboard transforms raw transactional data into an insight-driven analytical tool, enabling business users to explore performance across products, locations, and delivery metrics — all in real time.
