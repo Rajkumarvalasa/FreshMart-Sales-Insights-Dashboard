@@ -1,15 +1,15 @@
-#📊 FreshMart Sales Insights Dashboard
+📊# FreshMart Sales Insights Dashboard
 
 I'm thrilled to share my latest analytics project — a fully dynamic and interactive Sales Dashboard for FreshMart Store, developed using Microsoft Excel.
 This dashboard transforms raw transactional data into an insight-driven analytical tool, enabling business users to explore performance across products, locations, and delivery metrics — all in real time.
 
 
-##🎯 Project Objective
+🎯## Project Objective
 
 The goal of this project was to analyze FreshMart’s sales performance and uncover actionable insights across key dimensions such as customer behavior, order completion, and delivery efficiency — all within Excel, using advanced analytical techniques.
 
 
-##✨ Project Overview
+✨## Project Overview
 
 This Excel dashboard goes beyond static reports — it’s a live, responsive tool for decision-making.
 Every metric, chart, and visual dynamically updates through slicers, allowing users to filter by Month, Weekday, Source of Customer, and Slot Time.
@@ -92,7 +92,7 @@ Charts:
 Avg Delivery Time by Slot, Delivery Duration by Month, Cancelled vs Completed Orders
 
 
-##🎛️ Interactive Slicers
+🎛️## Interactive Slicers
 
 Four slicers enhance interactivity:
 
@@ -101,7 +101,7 @@ Month, Weekday, Source, Slot Time.
 These enable stakeholders to slice and dice the data for deeper insight and decision-making.
 
 
-##🛠️ Data, Methodology & Tools
+🛠️## Data, Methodology & Tools
 
 🗂️ Dataset Used - <a href="https://github.com/Rajkumarvalasa/FreshMart-Sales-Insights-Dashboard/blob/main/FreshMart%20sales%20raw%20data.xlsx">FreshMart sales raw data</a>
 
@@ -125,7 +125,7 @@ Focus Areas:
 Data Cleaning • Data Modeling • KPI Design • Dashboard Storytelling • Data Visualization
 
 
-##📈 Insights Gained
+📈## Insights Gained
 
 Total Sales: $8.47M | Net Revenue: $7.96M | Orders: 22,823 | Completion Rate: 99.55%
 
@@ -140,7 +140,7 @@ Avg. Delivery Time: 24.36 mins | On-Time Rate: 76.08%
 September Peak: 4,231 orders generating $1.213M
 
 
-##🧠 Learning Outcomes
+🧠## Learning Outcomes
 
 This project helped me strengthen:
 
@@ -160,8 +160,6 @@ Translating raw data into executive-level visuals
 
 📊 Dashboard : - <a href="https://github.com/Rajkumarvalasa/FreshMart-Sales-Insights-Dashboard/blob/main/FreshMart%20Sales%20Dashboard.xlsm">Dashboard</a>
 
-
-🎥 Demo
 
 🎬 Dashboard Walkthrough Video: - <a href="https://github.com/Rajkumarvalasa/FreshMart-Sales-Insights-Dashboard/blob/main/Dashboard%20clip.mp4">Dashboard Clip</a>
 
