@@ -25,7 +25,7 @@ The dashboard is structured into five key sections, each containing KPIs and dyn
 
 KPIs:
 
-Total Profit: $8.47 M
+Total Sales: $8.47 M
 
 Total Revenue: $7.96 M
 
@@ -39,7 +39,7 @@ KPIs:
 
 Total Orders: 22,823
 
-Avg. Orders per Day: 84
+Avg Orders per Day: 84
 
 Charts:
 
@@ -67,7 +67,7 @@ Completion Rate: 99.55%
 
 Completed Orders: 22,721
 
-Avg. Delivery Time: 24.36 mins
+Avg Delivery Time: 24.36 mins
 
 Charts:
 
